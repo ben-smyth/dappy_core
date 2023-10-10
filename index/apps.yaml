@@ -1,0 +1,11 @@
+---
+Applications:
+  - name: YouTube
+    url: www.youtube.com
+    folder: youtube
+  - name: Google
+    url: www.google.com
+    folder: google
+  - name: Facebook
+    url: www.facebook.com
+    folder: facebook
